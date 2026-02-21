@@ -2,7 +2,7 @@
   "red-palm-global-plugin/red-palm-global-plugin.php": {
     "slug": "red-palm-global-plugin",
     "plugin": "red-palm-global-plugin/red-palm-global-plugin.php",
-    "new_version": "1.2.0",
+    "new_version": "1.2.1",
     "url": "https://github.com/Shishir47/RedPalm-Global-Plugin",
     "package": "https://github.com/Shishir47/RedPalm-Global-Plugin/releases/download/v1.2.0/RedPalm.Global.Plugin.zip"
   }
