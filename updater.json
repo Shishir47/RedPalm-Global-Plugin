@@ -4,12 +4,12 @@
 		"package" : "https://firelightcd.com/fcd-custom-wordpress-plugins-89e7of/gf-default-notifications/gf-default-notifications.1.0.2.zip"
 	},
 	"fcd-google-reviews/fcd-google-reviews.php": {
-		"version" : "1.4.2",
+		"version" : "1.4.1",
 		"package" : "https://firelightcd.com/fcd-custom-wordpress-plugins-89e7of/fcd-google-reviews/fcd-google-reviews.1.4.1.zip"
 	},
 	"red-palm-global-plugin/red-palm-global-plugin.php": {
-		"version" : "1.2.2",
-		"package" : "https://github.com/Shishir47/RedPalm-Global-Plugin/releases/download/v1.2.1/red-palm-global-plugin_2.zip"
+		"version" : "1.2.3",
+		"package" : "https://github.com/Shishir47/RedPalm-Global-Plugin/releases/download/v1.2.3/red-palm-global-plugin.1.2.3.zip"
 	},
 	"hufsey-service-titan-forms/hufsey-service-titan-forms.php": {
 		"version" : "1.0.4",
